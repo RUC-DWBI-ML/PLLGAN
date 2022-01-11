@@ -1,10 +1,11 @@
 ## PLLGAN
+
    This is implementation for the methods proposed in paper 'Partial Label Learning via Generative Adversarial Nets'.
 
    Note: PLGAN.py is the main running code.
          
       
-## Requirements
+## Environments
 
     python == 3.7.1
     tensorflow == 1.15.0
@@ -17,7 +18,7 @@
  MSRCv2.mat and MSRCv2_indices.mat are the real data sets of the running model we provide.
  More real-world PLL datasets are available at http://palm.seu.edu.cn/zhangml/
 
-##Citation:
+## Citation:
 
 @inproceedings{zhang2020partial,
 	title={Partial Label Learning via Generative Adversarial Nets},
