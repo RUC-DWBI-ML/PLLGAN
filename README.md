@@ -1,4 +1,4 @@
-## PLGAN
+## PLLGAN
    This is implementation for the methods proposed in paper 'Partial Label Learning via Generative Adversarial Nets'.
 
    Note: PLGAN.py is the main running code.
