@@ -2,9 +2,7 @@
 
    This is implementation for the methods proposed in paper 'Partial Label Learning via Generative Adversarial Nets'.
 
-   Note: PLGAN.py is the main running code.
-         
-      
+            
 ## Environments
 
    python == 3.7.1
@@ -18,6 +16,9 @@
  MSRCv2.mat is a real datasets to run this model.
  More UCI and real-world PLL datasets in this paper are available at http://palm.seu.edu.cn/zhangml/
 
+## Usage
+   Note: PLGAN.py is the main running code.
+   
 ## Citation:
 
 @inproceedings{zhang2020partial,
