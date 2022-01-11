@@ -1,6 +1,6 @@
 ## PLLGAN
 
-   This is implementation for the methods proposed in paper 'Partial Label Learning via Generative Adversarial Nets'.
+    This is implementation for the methods proposed in paper 'Partial Label Learning via Generative Adversarial Nets'.
 
             
 ## Environments
@@ -13,18 +13,18 @@
     tdqm  == 4.36.1
 
 ## Datasets
-   MSRCv2.mat is a real datasets to run this model.
-   More UCI and real-world PLL datasets in this paper are available at http://palm.seu.edu.cn/zhangml/
+    MSRCv2.mat is a real datasets to run this model.
+    More UCI and real-world PLL datasets in this paper are available at http://palm.seu.edu.cn/zhangml/
 
 ## Usage
-   PLGAN.py is the main running code.
+    PLGAN.py is the main running code.
    
 ## Citation:
 
- @inproceedings{zhang2020partial,
+    @inproceedings{zhang2020partial,
 	title={Partial Label Learning via Generative Adversarial Nets},
 	author={Zhang, Ya-Bin and Yang, Guang and Zhao, Su-Yun and Ni, Peng and Lian, Hai-Rong and Chen, Hong and Li, Cui-Ping},
 	booktitle={Proceedings of the 24th European Conference on Artificial Intelligence},
 	pages={1674-1681},
 	year={2020},
-}
+       }
