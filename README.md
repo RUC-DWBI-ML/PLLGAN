@@ -21,10 +21,11 @@
    
 ## Citation:
 
-    @inproceedings{zhang2020partial,
-	title={Partial Label Learning via Generative Adversarial Nets},
-	author={Zhang, Ya-Bin and Yang, Guang and Zhao, Su-Yun and Ni, Peng and Lian, Hai-Rong and Chen, Hong and Li, Cui-Ping},
-	booktitle={Proceedings of the 24th European Conference on Artificial Intelligence},
-	pages={1674-1681},
-	year={2020},
-    }
+    @incollection{zhang2020partial,
+  	title={Partial label learning via generative adversarial nets},
+  	author={Zhang, Yabin and Yang, Guang and Zhao, Suyun and Ni, Peng and Lian, Hairong and Chen, Hong and Li, Cuiping},
+  	booktitle={ECAI 2020},
+  	pages={1674--1681},
+  	year={2020},
+  	publisher={IOS Press}
+	}
