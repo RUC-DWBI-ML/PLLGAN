@@ -14,10 +14,11 @@
     tdqm  == 4.36.1
 
 ## Datasets
- MSRCv2.mat and MSRCv2_indices.mat is data we are the real data sets of the running model we provide，
- more real-world PLL datasets are available at http://palm.seu.edu.cn/zhangml/
+ MSRCv2.mat and MSRCv2_indices.mat are the real data sets of the running model we provide.
+ More real-world PLL datasets are available at http://palm.seu.edu.cn/zhangml/
 
 ## citation:
+
 @inproceedings{zhang2020partial,
 	title={Partial Label Learning via Generative Adversarial Nets},
 	author={Zhang, Ya-Bin and Yang, Guang and Zhao, Su-Yun and Ni, Peng and Lian, Hai-Rong and Chen, Hong and Li, Cui-Ping},
