@@ -27,4 +27,4 @@
 	booktitle={Proceedings of the 24th European Conference on Artificial Intelligence},
 	pages={1674-1681},
 	year={2020},
-       }
+    }
